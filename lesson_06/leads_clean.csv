@@ -1,0 +1,9 @@
+request_id,created_at,name,email,direction,source_medium,utm_campaign,status
+REQ-001,2026-09-23 12:40:00,Иван Тестов,student1@example.com,backend,telegram,social,new
+REQ-002,2026-09-23 12:44:00,Анна,student2@example.com,data,vk,social,new
+REQ-003,#VALUE!,Петр,student3@example.com,frontend,telegram,social,done
+REQ-004,2026-09-23 13:01:00,Мария,student4@example.com,backend,direct,none,new
+REQ-005,2026-09-23 13:05:00,Олег,student5@example.com,data,telegram,social,done
+REQ-006,2026-09-24 9:10:00,Елена,student6@example.com,data,telegram,social,new
+REQ-007,2026-09-24 9:20:00,Максим,student7@example.com,backend,vk,social,done
+REQ-008,#VALUE!,Ирина,student8@example.com,frontend,telegram,social,new
